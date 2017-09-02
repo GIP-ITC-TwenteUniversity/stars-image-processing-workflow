@@ -1,1 +1,0 @@
-# stars-image-processing-workflow
